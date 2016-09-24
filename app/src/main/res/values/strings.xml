@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="check_amount">Check Amount:</string>
+    <string name="amount_hint">0.00</string>
+    <string name="party_size">Party Size:</string>
+    <string name="check_initial_amount">0.00</string>
+    <string name="check_amount_label">Check Amount:</string>
+    <string name="zero_hint">0</string>
+    <string name="how_many_hint">1</string>
+    <string name="calculate_button_label">Calculate</string>
+    <string name="total_label">Total:</string>
+    <string name="lblFifteenPercent">15%: $</string>
+    <string name="lblTwentyPercent">20%: $</string>
+    <string name="lblTwentyFivePercent">25%: $</string>
+    <string name="tips_and_totals_per_person">Tips and totals (per person)</string>
+    <string name="party_size_hint">1</string>
+    <string name="tip_text">Tip:</string>
+</resources>
